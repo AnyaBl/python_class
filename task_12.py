@@ -7,3 +7,4 @@ if m ==k == l:
     print("Numbers are equal")
 else:
     print("The biggest number is ", max(m,k,l))
+

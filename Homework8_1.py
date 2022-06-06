@@ -33,3 +33,4 @@ while True:
     n1, op, n2 = parse_input(user_input)
     result = calculate(n1, op, n2)
     print(result)
+

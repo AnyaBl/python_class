@@ -24,5 +24,5 @@ def fib(n):
         a, b = b, a + b
 
 
-f = fib(101)
-print(list(f))
+f = fib(100)
+print(sum(f))
